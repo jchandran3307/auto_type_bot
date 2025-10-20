@@ -1,3 +1,4 @@
 Flask>=2.0
 gunicorn
+pyautogui
 # omit pyautogui for server (see note). If you need it for local testing list it here.
